@@ -6,8 +6,7 @@
   <body>
     <div class="wrapper">
       <form action="">
-        <h1> login </h1>
-        
+        <h1>login</h1>
         <div class="input-box">
           <input type = "text" placeholder="Username" required>  
         </div>
